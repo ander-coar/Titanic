@@ -1,0 +1,35 @@
+# REPORTE DE ANÁLISIS DEL TITANIC
+============================================================
+
+## 1. RESUMEN DEL DATASET
+- Total de registros: 100
+- Número de características: 8
+- Tasa de supervivencia general: 41.00%
+
+## 2. HALLAZGOS PRINCIPALES
+
+### Supervivencia por Sexo:
+- Female: 100.00%
+- Male: 0.00%
+
+### Supervivencia por Clase:
+- Clase 1: 60.00%
+- Clase 2: 41.67%
+- Clase 3: 31.37%
+
+## 3. RESULTADOS DE MODELOS
+
+### Random Forest:
+- Precisión: 1.0000 (100.00%)
+
+### Logistic Regression:
+- Precisión: 1.0000 (100.00%)
+
+### Mejor Modelo: Random Forest
+- Precisión: 1.0000
+
+## 4. CONCLUSIONES
+- Las mujeres tuvieron una tasa de supervivencia significativamente mayor que los hombres
+- La clase del pasajero fue un factor determinante en la supervivencia
+- Los pasajeros de primera clase tuvieron mayor probabilidad de sobrevivir
+- La edad y el número de familiares a bordo también influyeron en la supervivencia
