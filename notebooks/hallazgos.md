@@ -1,5 +1,16 @@
 ## 📊 HALLAZGOS CLAVE - EDA
 
+### Analisis inicial 
+Columnas irrelevantes para el análisis inicial:
+- La columna Id pasajero no genera valor para el objetivo del proyecto
+- la Columna nombre no aporta valor predictivo
+- Sexo es relevante para predecir supervivencia
+- 
+
+Columnas relevantes para el análisis inicial:
+- Pclass
+- 
+
 ### 1. Variable Objetivo (Survived)
 - **38% sobrevivió** vs 62% murió
 - Dataset ligeramente desbalanceado
