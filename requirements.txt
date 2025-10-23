@@ -1,0 +1,16 @@
+# python == 3.14 o superior
+
+# Manipulación de datos
+pandas == 2.3.3
+numpy == 2.3.4
+
+# Jupyter
+jupyterlab == 4.4.10
+jupyter == 1.1.1
+
+# Visualización de datos
+matplotlib == 3.10.7
+seaborn == 0.13.2
+
+# Machine Learning
+scikit-learn == 1.7.2
